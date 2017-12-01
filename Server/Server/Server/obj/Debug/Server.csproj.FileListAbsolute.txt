@@ -1,0 +1,6 @@
+C:\Users\win7\Desktop\Socket\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\win7\Desktop\Socket\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\win7\Desktop\Socket\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\win7\Desktop\Socket\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\win7\Desktop\Socket\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\win7\Desktop\Socket\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
